@@ -39,4 +39,16 @@ Git представляет множество команд для управл
     ```
     git clone https://github.com/example/my-project.git
     ```
+## Ветки
 
+1. `git branch:` создание новой ветви.
+    ### Пример:
+    ```
+    git branch new-branch
+    ```
+2. `git checkout:` переключение на другую ветвь.
+    ### Пример:
+    ```
+    git checkout new-branch 
+    ```
+    
