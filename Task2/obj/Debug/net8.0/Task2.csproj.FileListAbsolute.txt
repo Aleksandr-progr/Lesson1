@@ -1,0 +1,15 @@
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/Users/aleksandr1978/Desktop/Lesson1/Task2/bin/Debug/net8.0/Task2
+/Users/aleksandr1978/Desktop/Lesson1/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/aleksandr1978/Desktop/Lesson1/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/aleksandr1978/Desktop/Lesson1/Task2/bin/Debug/net8.0/Task2.dll
+/Users/aleksandr1978/Desktop/Lesson1/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.dll
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/aleksandr1978/Desktop/Lesson1/Task2/obj/Debug/net8.0/ref/Task2.dll
