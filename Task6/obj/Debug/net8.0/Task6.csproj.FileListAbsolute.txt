@@ -1,0 +1,15 @@
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.AssemblyInfoInputs.cache
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.AssemblyInfo.cs
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.csproj.CoreCompileInputs.cache
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.sourcelink.json
+/Users/aleksandr1978/Desktop/Lesson1/Task6/bin/Debug/net8.0/Task6
+/Users/aleksandr1978/Desktop/Lesson1/Task6/bin/Debug/net8.0/Task6.deps.json
+/Users/aleksandr1978/Desktop/Lesson1/Task6/bin/Debug/net8.0/Task6.runtimeconfig.json
+/Users/aleksandr1978/Desktop/Lesson1/Task6/bin/Debug/net8.0/Task6.dll
+/Users/aleksandr1978/Desktop/Lesson1/Task6/bin/Debug/net8.0/Task6.pdb
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.dll
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/refint/Task6.dll
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.pdb
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/Task6.genruntimeconfig.cache
+/Users/aleksandr1978/Desktop/Lesson1/Task6/obj/Debug/net8.0/ref/Task6.dll
