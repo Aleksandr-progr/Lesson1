@@ -1,0 +1,15 @@
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/bin/Debug/net8.0/Homemade1
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/bin/Debug/net8.0/Homemade1.deps.json
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/bin/Debug/net8.0/Homemade1.runtimeconfig.json
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/bin/Debug/net8.0/Homemade1.dll
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/bin/Debug/net8.0/Homemade1.pdb
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.AssemblyInfoInputs.cache
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.AssemblyInfo.cs
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.csproj.CoreCompileInputs.cache
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.sourcelink.json
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.dll
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/refint/Homemade1.dll
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.pdb
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/Homemade1.genruntimeconfig.cache
+/Users/aleksandr1978/Desktop/Lesson1/Homemade1/obj/Debug/net8.0/ref/Homemade1.dll
